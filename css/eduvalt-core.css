@@ -786,6 +786,7 @@ textarea {
 @media (max-width: 767.98px) {
   .section__title .title .svg-icon {
     bottom: -15px;
+    
   }
 }
 .section__title .title .svg-icon svg {
@@ -794,7 +795,7 @@ textarea {
   height: 100%;
 }
 .section__title .title .svg-icon path {
-  stroke: var(--tg-common-color-yellow);
+  stroke: var(--tg-common-color-red);
 }
 .section__title.white-title .title {
   color: var(--tg-common-color-white);
@@ -2127,7 +2128,7 @@ textarea {
   height: 100%;
 }
 .banner__content .title .svg-icon path {
-  stroke: var(--tg-common-color-yellow);
+  stroke: var(--tg-common-color-red);
 }
 .banner__content p {
   max-width: 80%;
@@ -2478,7 +2479,7 @@ textarea {
   height: 100%;
 }
 .banner__content-two .title .svg-icon path {
-  stroke: var(--tg-common-color-yellow);
+  stroke: var(--tg-common-color-red);
 }
 .banner__search-form form {
   position: relative;
@@ -2788,7 +2789,7 @@ textarea {
   height: 100%;
 }
 .slider__content .title .svg-icon path {
-  stroke: var(--tg-common-color-yellow);
+  stroke: var(--tg-common-color-red);
 }
 .slider__content .list-wrap {
   margin: 0 0 30px;
