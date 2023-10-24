@@ -2775,17 +2775,13 @@ textarea {
   transform: translateX(-50%);
   text-align: center;
   margin: 0 auto;
-  bottom: -14px;
+  bottom: -6px;
   height: 25px;
   width: 145px;
   pointer-events: none;
   z-index: -1;
 }
-@media (max-width: 767.98px) {
-  .slider__content .title .svg-icon {
-    bottom: -15px;
-  }
-}
+
 .slider__content .title .svg-icon svg {
   display: block;
   width: 100%;
